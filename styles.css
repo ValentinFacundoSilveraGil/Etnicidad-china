@@ -1,0 +1,26 @@
+h1 {
+  text-decoration: underline;
+}
+body {
+  background-color: aquamarine;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+.titulo img {
+  width: 500px;
+  margin: 50px;
+}
+.titulo p {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(7, 124, 133);
+}
+.enlace {
+  display: flex;
+  justify-content: center;
+}
+.enlace a {
+  font-size: 50px;
+}
